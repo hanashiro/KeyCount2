@@ -1,0 +1,45 @@
+body{
+    background-image: url('../imagem/fundo.png');
+    font-family:'Calibri';
+}
+
+.divAbreviar{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+}
+
+.multa {
+    color: #D61A10;
+    font-weight:bold;
+    font-size: 15px;
+}
+
+
+#loadingDiv {
+  position: absolute;
+  top: 0;
+  bottom: 0%;
+  left: 0;
+  right: 0%;
+  background-color: white;
+  z-index: 100;
+  display: block;
+  text-align: center;
+  width: 100%;
+  padding-top: 25px;
+}
+
+#loading{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+    font-family: Calibri,Verdana,Arial,sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+}

@@ -1,0 +1,92 @@
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\WebAPI.dll.config
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\WebAPI.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\WebAPI.pdb
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\Antlr3.Runtime.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\Newtonsoft.Json.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Net.Http.Formatting.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Helpers.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.WebHost.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Mvc.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Optimization.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Razor.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.Razor.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\WebGrease.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\Newtonsoft.Json.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Net.Http.Formatting.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Helpers.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.WebHost.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Mvc.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Optimization.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.Razor.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\System.Web.WebPages.Razor.xml
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\bin\Antlr3.Runtime.pdb
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\obj\Debug\WebAPI.dll
+c:\Users\Felipe\documents\visual studio 2013\Projects\Mine\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Data.Access.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Data.Access.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\Business.Logic.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\WebAPI.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\WebAPI.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\WebAPI.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Razor.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\WebGrease.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Data.Access.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Business.Logic.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Razor.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\bin\Data.Access.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\WebAPI\obj\Debug\WebAPI.pdb

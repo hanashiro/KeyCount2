@@ -1,0 +1,29 @@
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\Mine.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\Mine.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\obj\Debug\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\obj\Debug\Mine.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Mine\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\Mine.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\Mine.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\obj\Debug\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Mine\obj\Debug\Mine.pdb
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\Mine.pdb
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\obj\Debug\Mine.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\KeyCount 2\Mine\obj\Debug\Mine.pdb

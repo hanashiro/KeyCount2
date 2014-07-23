@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3DE07E33-D130-4029-A616-122F07DACFBC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mine</RootNamespace>
+    <AssemblyName>Mine</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imagem\Thumbs.db" />
+    <Content Include="js\plugins\angular\angular-route.min.js.map" />
+    <Content Include="js\plugins\bootstrap\css\bootstrap-theme.css.map" />
+    <Content Include="js\plugins\bootstrap\css\bootstrap.css.map" />
+    <Content Include="js\plugins\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="js\plugins\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="js\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="js\plugins\jquery\jquery-1.10.2.min.map" />
+    <Content Include="js\plugins\toastmessage\images\Thumbs.db" />
+    <Content Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\estilo.css" />
+    <Content Include="css\images\animated-overlay.gif" />
+    <Content Include="css\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+    <Content Include="css\images\ui-bg_flat_100_2b2828_40x100.png" />
+    <Content Include="css\images\ui-bg_flat_15_cd0a0a_40x100.png" />
+    <Content Include="css\images\ui-bg_glass_100_e4f1fb_1x400.png" />
+    <Content Include="css\images\ui-bg_glass_50_3baae3_1x400.png" />
+    <Content Include="css\images\ui-bg_glass_80_d7ebf9_1x400.png" />
+    <Content Include="css\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+    <Content Include="css\images\ui-bg_highlight-hard_70_000000_1x100.png" />
+    <Content Include="css\images\ui-bg_highlight-soft_100_deedf7_1x100.png" />
+    <Content Include="css\images\ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+    <Content Include="css\images\ui-bg_inset-soft_90_66b1e2_1x100.png" />
+    <Content Include="css\images\ui-icons_2694e8_256x240.png" />
+    <Content Include="css\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="css\images\ui-icons_3d4ac4_256x240.png" />
+    <Content Include="css\images\ui-icons_3d80b3_256x240.png" />
+    <Content Include="css\images\ui-icons_402283_256x240.png" />
+    <Content Include="css\images\ui-icons_72a7cf_256x240.png" />
+    <Content Include="css\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\jquery.toastmessage.css" />
+    <Content Include="css\ng-grid.css" />
+    <Content Include="css\toastimages\close.gif" />
+    <Content Include="css\toastimages\error.png" />
+    <Content Include="css\toastimages\notice.png" />
+    <Content Include="css\toastimages\success.png" />
+    <Content Include="css\toastimages\warning.png" />
+    <Content Include="imagem\loader_infinity.gif" />
+    <Content Include="imagem\loader_infinity0.gif" />
+    <Content Include="index.html" />
+    <Content Include="js\api.js" />
+    <Content Include="js\colecoes.js" />
+    <Content Include="js\controllers\cliente\clienteController.js" />
+    <Content Include="js\core.js" />
+    <Content Include="js\objetos.js" />
+    <Content Include="js\plugins.js" />
+    <Content Include="js\plugins\angular\angular-1.2.8.js" />
+    <Content Include="js\plugins\angular\angular-route-1.2.0.min.js" />
+    <Content Include="js\plugins\Base64.js" />
+    <Content Include="js\plugins\bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="js\plugins\bootstrap\css\bootstrap.min.css" />
+    <Content Include="js\plugins\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="js\plugins\bootstrap\js\bootstrap.min.js" />
+    <Content Include="js\plugins\chart\canvg.js" />
+    <Content Include="js\plugins\chart\rgbcolor.js" />
+    <Content Include="js\plugins\chart\StackBlur.js" />
+    <Content Include="js\plugins\chart\visualization.js" />
+    <Content Include="js\plugins\contextmenu\images\cut.png" />
+    <Content Include="js\plugins\contextmenu\images\door.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_add.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_copy.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_delete.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_details.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_edit.png" />
+    <Content Include="js\plugins\contextmenu\images\page_white_paste.png" />
+    <Content Include="js\plugins\contextmenu\jquery.contextMenu.css" />
+    <Content Include="js\plugins\contextmenu\jquery.contextMenu.js" />
+    <Content Include="js\plugins\contextmenu\jquery.ui.position.js" />
+    <Content Include="js\plugins\dock\dock\blank.gif" />
+    <Content Include="js\plugins\dock\dock\dock-left.png" />
+    <Content Include="js\plugins\dock\dock\dock-left2.png" />
+    <Content Include="js\plugins\dock\dock\dock-middle.png" />
+    <Content Include="js\plugins\dock\dock\dock-middle2.png" />
+    <Content Include="js\plugins\dock\dock\dock-right.png" />
+    <Content Include="js\plugins\dock\dock\dock-right2.png" />
+    <Content Include="js\plugins\dock\dock\dock-seperator.png" />
+    <Content Include="js\plugins\dock\dock\icon-address.png" />
+    <Content Include="js\plugins\dock\dock\icon-applications.png" />
+    <Content Include="js\plugins\dock\dock\icon-band.png" />
+    <Content Include="js\plugins\dock\dock\icon-bin.png" />
+    <Content Include="js\plugins\dock\dock\icon-calendar.png" />
+    <Content Include="js\plugins\dock\dock\icon-chat.png" />
+    <Content Include="js\plugins\dock\dock\icon-documents.png" />
+    <Content Include="js\plugins\dock\dock\icon-folder.png" />
+    <Content Include="js\plugins\dock\dock\icon-music.png" />
+    <Content Include="js\plugins\dock\dock\icon-photo.png" />
+    <Content Include="js\plugins\dock\dock\icon-pictures.png" />
+    <Content Include="js\plugins\dock\dock\icon-text.png" />
+    <Content Include="js\plugins\dock\dock\icons\basket-empty.png" />
+    <Content Include="js\plugins\dock\dock\icons\basket-full.png" />
+    <Content Include="js\plugins\dock\dock\icons\chat-support.png" />
+    <Content Include="js\plugins\dock\dock\icons\checklist.png" />
+    <Content Include="js\plugins\dock\dock\icons\checkout.png" />
+    <Content Include="js\plugins\dock\dock\icons\contact.png" />
+    <Content Include="js\plugins\dock\dock\icons\credit-cards.png" />
+    <Content Include="js\plugins\dock\dock\icons\delivery.png" />
+    <Content Include="js\plugins\dock\dock\icons\downloads.png" />
+    <Content Include="js\plugins\dock\dock\icons\empty-cart.png" />
+    <Content Include="js\plugins\dock\dock\icons\full-cart.png" />
+    <Content Include="js\plugins\dock\dock\icons\gifts.png" />
+    <Content Include="js\plugins\dock\dock\icons\loaded-truck.png" />
+    <Content Include="js\plugins\dock\dock\icons\search.png" />
+    <Content Include="js\plugins\dock\dock\icons\secure-payment.png" />
+    <Content Include="js\plugins\dock\dock\icons\shop-closed.png" />
+    <Content Include="js\plugins\dock\dock\icons\shop-open.png" />
+    <Content Include="js\plugins\dock\dock\icons\shopping-bag.png" />
+    <Content Include="js\plugins\dock\dock\icons\telephone.png" />
+    <Content Include="js\plugins\dock\dock\icons\wallet.png" />
+    <Content Include="js\plugins\dock\dock\icon_blank.png" />
+    <Content Include="js\plugins\dock\dock\menu_bottom.png" />
+    <Content Include="js\plugins\dock\dock\span.png" />
+    <Content Include="js\plugins\dock\dock\span2.png" />
+    <Content Include="js\plugins\dock\macdock.css" />
+    <Content Include="js\plugins\dock\macdock.js" />
+    <Content Include="js\plugins\fileSaver.js" />
+    <Content Include="js\plugins\fullcalendar\fullcalendar.css" />
+    <Content Include="js\plugins\fullcalendar\fullcalendar.min.js" />
+    <Content Include="js\plugins\fullcalendar\fullcalendar.print.css" />
+    <Content Include="js\plugins\jquery-ui\images\animated-overlay.gif" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_flat_55_fbec88_40x100.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_glass_75_d0e5f5_1x400.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_glass_85_dfeffc_1x400.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_217bc0_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_469bdd_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_6da8d5_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_d8e7f3_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\images\ui-icons_f9bd01_256x240.png" />
+    <Content Include="js\plugins\jquery-ui\jquery-ui-1.10.3.custom.min.css" />
+    <Content Include="js\plugins\jquery-ui\jquery-ui-1.10.3.custom.min.js" />
+    <Content Include="js\plugins\jquery.toastmessage.js" />
+    <Content Include="js\plugins\jquery\jquery-1.10.2.min.js" />
+    <Content Include="js\plugins\jspdf.js" />
+    <Content Include="js\plugins\lightbox\css\lightbox.css" />
+    <Content Include="js\plugins\lightbox\css\screen.css" />
+    <Content Include="js\plugins\lightbox\img\close.png" />
+    <Content Include="js\plugins\lightbox\img\demopage\donate.png" />
+    <Content Include="js\plugins\lightbox\img\demopage\favicon.ico" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-1.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-2.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-3.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-4.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-5.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\image-6.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-1.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-2.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-3.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-4.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-5.jpg" />
+    <Content Include="js\plugins\lightbox\img\demopage\thumb-6.jpg" />
+    <Content Include="js\plugins\lightbox\img\loading.gif" />
+    <Content Include="js\plugins\lightbox\img\next.png" />
+    <Content Include="js\plugins\lightbox\img\prev.png" />
+    <Content Include="js\plugins\lightbox\js\lightbox-2.6.min.js" />
+    <Content Include="js\plugins\lightbox\js\modernizr.custom.js" />
+    <Content Include="js\plugins\photobooth.js" />
+    <Content Include="js\plugins\toastmessage\images\close.gif" />
+    <Content Include="js\plugins\toastmessage\images\error.png" />
+    <Content Include="js\plugins\toastmessage\images\notice.png" />
+    <Content Include="js\plugins\toastmessage\images\success.png" />
+    <Content Include="js\plugins\toastmessage\images\warning.png" />
+    <Content Include="js\plugins\toastmessage\jquery.toastmessage.css" />
+    <Content Include="js\plugins\toastmessage\jquery.toastmessage.js" />
+    <Content Include="js\relatorios.js" />
+    <Content Include="js\route.js" />
+    <Content Include="js\utils.js" />
+    <Content Include="template\pagina1.html" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="login\" />
+    <Folder Include="som\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55279</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55279/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

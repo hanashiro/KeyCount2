@@ -1,0 +1,26 @@
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Business.Logic.Layer.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Business.Logic.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Data.Access.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Data.Access.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Business.Logic.Layer\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Business.Logic.Layer.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Business.Logic.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Data.Access.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\EntityFramework.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Data.Access.Layer.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\bin\EntityFramework.xml
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Business.Logic.Layer\obj\Debug\Business.Logic.Layer.pdb

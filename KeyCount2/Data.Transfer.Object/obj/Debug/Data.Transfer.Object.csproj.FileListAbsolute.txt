@@ -1,0 +1,12 @@
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\bin\Data.Transfer.Object.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\Mine\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\bin\Data.Transfer.Object.dll.config
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\bin\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\bin\Data.Transfer.Object.pdb
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.dll
+C:\Users\Felipe\Documents\Visual Studio 2013\Projects\KeyCount 2\Data.Transfer.Object\obj\Debug\Data.Transfer.Object.pdb

@@ -1,0 +1,6 @@
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\bin\Mine.dll.config
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\bin\Mine.dll
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\bin\Mine.pdb
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\obj\Debug\Mine.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\obj\Debug\Mine.dll
+c:\users\felipe\documents\visual studio 2013\Projects\Mine\Mine\obj\Debug\Mine.pdb

@@ -1,0 +1,64 @@
+<div class="grid-100 grid-parent" ng-keydown="reiniciar($event)" >
+
+    <div style="height: 20px;" class="clear" ></div>
+
+    <div class="grid-90 push-5" style="padding: 0px;">
+        <img src="imagem/detalhetopo.png" style="width: 100%;" />
+    </div>
+
+    <div class="grid-90 push-5 grid-parent" style="background:white;" >
+        <img src="imagem/banner.png" class="grid-100" />
+        <div style="width:100%;background-color: #af0a0e;height:30px;" ></div>
+
+
+        <div class="grid-100 grid-parent" style="font-size: 20px;font-weight: bold;" >
+
+
+            <div class="grid-75 grid-parent">
+                <div style="height: 20px;" class="clear" ></div>
+                <div class="grid-100" >
+                    <span>R.A.:</span>
+                    <input tabindex="1" id="ra" type="text" onkeypress="Controle.Teclado.apenasNumeros(event)" ng-model="novoEmprestimo.ra" maxlength="7" size="6" ng-keydown="setRa($event)" />
+                    <span>CHAVE:</span>
+                    <input tabindex="2" id="chave" type="text" onkeypress="Controle.Teclado.apenasNumeros(event)"  ng-model="novoEmprestimo.chave" maxlength="3" size="1" ng-keydown="setChave($event)" />
+                </div>
+                <div style="height: 20px;" class="clear" ></div>
+                <div class="grid-100" >
+                    <span style="color:#af0a0e;" >NOME:</span>
+                    <div style="width: 88%;" class="divAbreviar"> {{aluno.Nome}}</div>
+                </div>
+                <div class="grid-100" >
+                    <span style="color:#af0a0e;" >CURSO:</span>
+                    <div style="width: 86%;" class="divAbreviar" > {{nomeCurso(aluno.Curso)}}</div>
+                </div>
+            </div>
+
+
+            <div class="grid-25 grid-parent">
+                <img tabindex="3" id="fotoAluno" style="width: 100%;" ng-focus="verificarRaChave()" ng-keydown="realizarEmprestimo()"  src="imagem/none.png" />
+            </div>
+        </div>
+
+
+        <div ng-show="mySelections[0].multado" class="grid-100 grid-parent" style="background-color:#303030;color:#fff" >
+            <div class="grid-80" >Aluno: {{mySelections[0].Aluno.Nome}}</div>
+            <button ng-click="liberarAluno()" class="btn btn-sm btn-danger grid-20" ><i class="glyphicon glyphicon-user"></i> Liberar Aluno</button>
+            <div class="grid-40" >
+                Data: {{mySelections[0].DtRetirada}} ~ 
+                {{mySelections[0].DtDevolucao != "" ? mySelections[0].DtDevolucao : "Não Devolveu"}} 
+            </div>
+            <div class="grid-40">
+                Data da Libera&ccedil;&atilde;o:
+                {{mySelections[0].DtLiberacao!= "" ? mySelections[0].DtLiberacao : "Indisponível" }}
+            </div>
+            
+            <button ng-if="!chaveLiberada(mySelections[0].Chave)" ng-click="liberarChave()" class="btn btn-sm btn-danger grid-20" ><i class="glyphicon glyphicon-tag" ></i> Liberar Chave</button>
+            
+        </div>
+
+        <div class="gridStyle grid-100" style="height:600px;" ng-grid="gridOptions"></div>
+    </div>
+
+</div>
+
+
